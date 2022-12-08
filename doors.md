@@ -16,9 +16,9 @@ Here's some of our finest doors!
     <td>A billion dollars</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td><img src="door1.jpg"></td>
+    <td>Door</td>
+    <td>money</td>
   </tr>
 </table>
 
